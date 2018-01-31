@@ -3,7 +3,7 @@
     "description": "A task management app based around routines and processes",
     "authors": "minusInfinite",
     "version": "0.0.1",
-    "main": "main.js",
+    "main": "/app/main.js",
     "dependencies": {
         
     }
